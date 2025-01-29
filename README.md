@@ -17,3 +17,4 @@ Imagine you're a puppeteer who wants to perform with a marionette that has compl
 
 This system empowers puppeteers to create personalized controllers that enhance their performance capabilities, all through the accessible technology of 3D printing. 
 
+![Image Alt text](/images/16-40-23.png)
