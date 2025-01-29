@@ -16,3 +16,7 @@ The "3D Printable Modular Horizontal Controller for Marionettes – String Puppe
 Imagine you're a puppeteer who wants to perform with a marionette that has complex movements. Using this modular system, you can print and assemble a customized horizontal controller tailored to your puppet's specific needs. If your puppet requires additional control for intricate hand movements, you can add extra modules to your controller to manage these functions effectively.
 
 This system empowers puppeteers to create personalized controllers that enhance their performance capabilities, all through the accessible technology of 3D printing. 
+
+
+
+
